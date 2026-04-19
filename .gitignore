@@ -1,0 +1,20 @@
+# Node (SEMPRE ignorar)
+node_modules/
+
+# Cypress - arquivos gerados automaticamente
+cypress/videos/
+cypress/screenshots/
+
+# Reports técnicos (não precisa versionar)
+cypress/reports/*.json
+cypress/reports/*.xml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ambiente
+.env
