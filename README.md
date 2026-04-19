@@ -1,4 +1,4 @@
-# 🚀 Testes Automatizados com Cypress | Automation Practice
+#  Testes Automatizados com Cypress | Automation Practice
 
 ![Cypress](https://img.shields.io/badge/Cypress-E2E-green?logo=cypress)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
@@ -10,7 +10,7 @@ Este repositório apresenta a implementação de testes automatizados utilizando
 
 ---
 
-## 🔗 Acesse os testes
+##  Acesse os testes
 
 - [Testes de Login](./cypress/e2e/login.cy.js)
 - [Testes de Cadastro](./cypress/e2e/cadastro.cy.js)
@@ -18,9 +18,9 @@ Este repositório apresenta a implementação de testes automatizados utilizando
 
 ---
 
-## 📊 Relatório dos Testes
+##  Relatório dos Testes
 
-👉 https://ig-matv.github.io/automacao-cypress/
+ https://ig-matv.github.io/automacao-cypress/
 
 ---
 
